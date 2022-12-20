@@ -1,11 +1,31 @@
-{"valorant":[
+{"LivrosPercyJacksonEOsOlimpianos":[
 
 {
-"Raze":2,
-"Killjoy":1,
-"Sova":3
-"Brimstone":4
-"Reyna":5
+"OMarDeMonstros":2,
+"OLadrãoDeRaios":1,
+"AMaldiçãoDoTitã":3,
+"ABatalhaDoLabirinto":4,
+"OÚltimoOlimpiano":5
 }
-]
+],"LivrosJogosVorazes":[
+
+  {
+  "EmChamas":2,
+  "AEsperança":3,
+  "JogosVorazes":1,
+  "ACantigaDosPássarosEDasSerpentesos":4
+ 
+  }
+],"LivrosGameOfThrones":[
+
+  {
+  "AFúriaDosReis":2,
+  "ATormentaDeEspadas":3,
+  "AGuerraDosTronos":1,
+  "OFestimDosCorvos":4,
+  "ADançaDosDragões":5,
+  "OsVentosDoInverno":6
+ 
+  }
+  ]
 }
