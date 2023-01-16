@@ -1,0 +1,17 @@
+{
+  "name": "server-json-main",
+  "version": "1.0.0",
+  "description": "servidor render",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "LivrosPercyJacksonEOsOlimpianos",
+    "LivrosJogosVorazes",
+    "LivrosGameOfThrones"
+  ],
+  "author": "Luana Miguel",
+  "license": "ISC"
+}
